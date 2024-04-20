@@ -11,7 +11,15 @@
 [stars-url]: https://github.com/sounddrill31/crave_aosp_builder/stargazers
 
 ## Prerequisites 
-foss.crave.io account
+Create an account in [foss.crave.io](foss.crave.io) then follow the instruction below.
+
+Note:
+```
+For an account, please contact the admins directly at https://discord.crave.io
+
+https://opendroid.pugzarecute.com/wiki/Crave_Devspace#Getting_a_foss.crave.io_account
+```
+
 
 ## Setup Instructions
 - Download crave.conf from API Keys of foss.crave.io dashboard
